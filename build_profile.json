@@ -1,0 +1,12 @@
+{
+    "_": "Auto-generated custom build profile based on detected classes from #include directives (including inheritance dependencies).",
+    "type": "feature_profile",
+    "enabled_classes": [
+        "Node",
+        "Object",
+        "PackedScene",
+        "RandomNumberGenerator",
+        "RefCounted",
+        "Resource"
+    ]
+}
