@@ -1,4 +1,17 @@
-# godot-plus-plus
+# GECS+ - GDExtensions Implementation of GECS (https://github.com/csprance/gecs)
+-----
+
+This is still in initial development and does not function out of the box fully.
+
+Please review this project's current implementation status here **→ [Project Status](project_status.md)**
+
+* This project was stubbed from https://github.com/nikoladevelops/godot-plus-plus and adapted for GECS+ development
+    * Getting started and this template's basica can be found here **- [YouTube creator link](https://www.youtube.com/watch?v=I79u5KNl34o)**
+
+* This repo is intended to take shape as it matures out into a release.
+* GECS complete documentation can be found here **→ [Complete Documentation Index](https://github.com/csprance/gecs/blob/main/addons/gecs/README.md)**
+    * This GDExtension is intended to maintain a complete feature parity of it's gdscript implementation
+
 This repository provides a user-friendly template for developing [GDExtensions](https://docs.godotengine.org/en/stable/classes/class_gdextension.html) in C++ for [Godot Engine](https://godotengine.org/).  Unlike traditional setups that require manual configuration, file editing, and command-line tinkering, [Godot Plus Plus](https://github.com/nikoladevelops/godot-plus-plus) simplifies the entire process with a single <b>`setup.py`</b> script that automates everything - from initializing submodules to configuring your library name and entry points. This makes it perfect for beginners and experienced developers alike, enabling a fast workflow to write, compile, and test C++ plugins in Godot with minimal hassle.
 
 ## Who Should Use This Template?

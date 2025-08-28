@@ -10,7 +10,7 @@ from typing import Optional
 TOOL_HEADER = "Tool For Generating XML Editor Documentation By @realNikich"
 SCRIPT_DIR = Path(__file__).resolve().parent
 ROOT_DIR = SCRIPT_DIR.parent
-PROJECT_DIR = ROOT_DIR / "test_project"
+PROJECT_DIR = ROOT_DIR / "test_project/addons"
 DONT_TOUCH_FILE = ROOT_DIR / "dont_touch.txt"
 GODOT_PATTERN = r"Godot|godot"
 VALID_EXECUTABLE_EXTENSIONS = {

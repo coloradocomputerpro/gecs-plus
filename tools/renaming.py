@@ -6,7 +6,7 @@ import shutil
 # Paths relative to script
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PARENT_DIR = os.path.normpath(os.path.join(SCRIPT_DIR, ".."))
-TEST_PROJECT_DIR = os.path.join(PARENT_DIR, "test_project")
+TEST_PROJECT_DIR = os.path.join(PARENT_DIR, "test_project/addons")
 SRC_DIR = os.path.join(PARENT_DIR, "src")
 
 # Global state for rollback

@@ -28,7 +28,7 @@ def display_start_screen():
     print("\n=== Godot C++ GDExtension Setup Tool By @realNikich ===\n")
     print("Official GitHub Repository: https://github.com/nikoladevelops/godot-plus-plus")
     print("Find Godot GDExtension Tutorials Here: https://youtube.com/@realNikich\n")
-    input("Press any key to continue...")
+    #input("Press any key to continue...")
     clear_screen()
 
 

@@ -11,11 +11,10 @@ config_version=5
 [application]
 
 config/name="Test_Project"
-run/main_scene="res://main.tscn"
+run/main_scene="uid://ngouye3it3qy"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://icon.svg"
 
-[rendering]
+[dotnet]
 
-renderer/rendering_method="gl_compatibility"
-renderer/rendering_method.mobile="gl_compatibility"
+project/assembly_name="Test_Project"
